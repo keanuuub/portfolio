@@ -3,7 +3,7 @@ html, body {
   padding: 0;
   height: 100%;
   width: 100%;
-  background: #f35a9a;
+  background: #ffffff;
   font-family: 'Inter', sans-serif;
 }
 
@@ -16,11 +16,11 @@ html, body {
   height: 100vh;
 
   gap: 1px;
-  background: #ffffff;
+  background: #f35a9a;
 }
 
 .cell {
-  background: #f35a9a;
+  background: #ffffff;
   display: flex;
   align-items: stretch;
   justify-content: center;
@@ -28,7 +28,7 @@ html, body {
 
 .header-cell h1 {
   margin: 0;
-  color: #ffffff;
+  color: #f35a9a;
   font-size: 15px;
   font-weight: 500;
   letter-spacing: -.5px;
@@ -74,7 +74,7 @@ html, body {
   height: 100%;
   object-fit: cover;
   border-radius: 10px;
-  border: 1px solid #ffffff;
+  border: 1px solid #f35a9a;
   display: block;
 }
 
